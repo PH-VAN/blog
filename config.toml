@@ -1,0 +1,3 @@
+baseURL = 'www.marketingbros.social'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
