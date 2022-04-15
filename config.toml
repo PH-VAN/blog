@@ -1,4 +1,4 @@
-baseURL = 'www.marketingbros.social'
+baseURL = 'https://6259b2452ba98c00b3cc4ddf--marketingbros.netlify.app/'
 languageCode = 'en-us'
 title = 'Marketingbros'
 theme = "aether"
